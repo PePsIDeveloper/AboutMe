@@ -1,1 +1,1 @@
-https://camo.githubusercontent.com/3d9e9e8ddf137171e681df3e755e7adda3687311ecfbe1a981cf029624119c06/68747470733a2f2f76697375616c73747564696f2e6d6963726f736f66742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30362f4272616e6456697375616c53747564696f57696e323031392d332e737667
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PePsIDeveloper)](https://github.com/anuraghazra/github-readme-stats)
