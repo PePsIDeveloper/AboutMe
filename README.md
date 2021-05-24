@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Pepsi 😄 <img src="https://images-ext-2.discordapp.net/external/XbPN9KFQu-MRRKSQ6Cms6_zOB4baXgcouj25KQyhlUI/%3Fsize%3D128/https/cdn.discordapp.com/avatars/615719863335518237/5efaed9bf47118ebde2e48d11cb9e67b.png?width=75&height=75" width="35"></h1>
+<h1 align="center">Hi there, I'm Pepsi <img src="https://images-ext-2.discordapp.net/external/XbPN9KFQu-MRRKSQ6Cms6_zOB4baXgcouj25KQyhlUI/%3Fsize%3D128/https/cdn.discordapp.com/avatars/615719863335518237/5efaed9bf47118ebde2e48d11cb9e67b.png?width=75&height=75" width="50"></h1>
 <h3 align="center">You're looking at a multi-developer.</h3>
 
 <p align="center">
