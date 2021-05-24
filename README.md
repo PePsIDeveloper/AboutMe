@@ -4,7 +4,7 @@
 <p align="center">
     <a> Currently working at Cryptic-Corporation </><a>
     <br>
-    <a>@Cryptic<a>
+    <a>@Cryptic-Corporation<a>
 </p>
 
 <p align="center">
