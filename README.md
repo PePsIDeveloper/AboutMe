@@ -5,6 +5,8 @@
     <a> Currently working at Cryptic-Corporation. </><a>
     <br>
     <a>@Cryptic-Corporation<a>
+            <br>
+         <a>I know 21 coding languages.. How do I know many coding languages? I started coding at the age of 4/5 four and started coding every since.I grew up in Canada and still in canada.</><a>
 </p>
 
 <p align="center">
@@ -28,11 +30,3 @@
       <img src="https://github-readme-stats.vercel.app/api?username=PePsIDeveloper&theme=dark">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PePsIDeveloper&theme=dark">
 </p>
-    </details>
-        
-        <details open>
-    <summary><b>My Background</b>: </summary>
-    <br>
-              <a>I know 21 coding languages.. How do I know many coding languages? I started coding at the age of 4/5 four and started coding every since.I grew up in Canada and still in canada.</><a>
-</p>
-    </details>
