@@ -32,8 +32,7 @@
         
         <details open>
     <summary><b>My Background</b>: </summary>
-                <a>I know 21 coding languages.. How do I know many coding languages? I started coding at the age of 4/5 four and started coding every since.I grew up in Canada and still in canada.</><a>
     <br>
-<p align="center">
+              <a>I know 21 coding languages.. How do I know many coding languages? I started coding at the age of 4/5 four and started coding every since.I grew up in Canada and still in canada.</><a>
 </p>
     </details>
