@@ -6,7 +6,7 @@
     <br>
     <a>@Cryptic-Corporation<a>
             <br>
-         <a>I know 21 coding languages.. How do I know many coding languages? I started coding at the age of 4/5 four and started coding every since.I grew up in Canada and still in canada.</><a>
+         <a>I know 21 coding languages.. How do I know many coding languages? I started coding at the age of 4/5 four and started coding every since. Coding is like a escape from the world for me. Currently I'm living like a psychopath...</><a>
 </p>
 
 <p align="center">
