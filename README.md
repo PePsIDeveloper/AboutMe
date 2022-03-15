@@ -2,11 +2,11 @@
 <h3 align="center">You're looking at a  Full-stack developer.</h3>
 
 <p align="center">
-    <a> Currently working at Cryptic-Corporation. </><a>
+    <a> Currently a Student. </><a>
     <br>
-    <a>@Cryptic-Corporation<a>
+    <a>@ Canada | The shithole<a>
             <br>
-         <a>HI , I'm currently praying for people in ukraine and hope for the best for all of them!</><a>
+         <a>Hi , I'm currently praying for people in ukraine and hope for the best for all of them!</><a>
 </p>
 
 <p align="center">
