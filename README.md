@@ -4,7 +4,7 @@
 <p align="center">
     <a> Currently a Student. </><a>
     <br>
-    <a>@ Canada | The shithole<a>
+    <a>@ Canada<a>
             <br>
          <a>Hi , I'm currently praying for people in ukraine and hope for the best for all of them!</><a>
 </p>
