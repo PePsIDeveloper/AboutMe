@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Pepsi</h1>
 <h3 align="center">You're looking at a  Full-stack developer.</h3>
-<img src="https://cdn.discordapp.com/attachments/965388831232770118/975182246757675148/Untitled_1366_768_px_1546_202_px.gif" width="1280" height="640" />
+<img src="https://cdn.discordapp.com/attachments/965388831232770118/975182246757675148/Untitled_1366_768_px_1546_202_px.gif"/>
 
    
 <p align="center">
