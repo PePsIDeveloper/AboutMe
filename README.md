@@ -1,5 +1,7 @@
-<h1 align="center">Hi there, I'm Pepsi <img src="https://media.discordapp.net/attachments/965388831232770118/975182246757675148/Untitled_1366_768_px_1546_202_px.gif?width=960&height=125" width="50"></h1>
+<h1 align="center">Hi there, I'm Pepsi</h1>
 <h3 align="center">You're looking at a  Full-stack developer.</h3>
+![Alt Text](https://cdn.discordapp.com/attachments/965388831232770118/975182246757675148/Untitled_1366_768_px_1546_202_px.gif)
+
 
 <p align="center">
     <a> Currently a Student. </><a>
