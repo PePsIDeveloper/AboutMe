@@ -6,9 +6,9 @@
 <p align="center">
     <a> Currently a Student. </><a>
     <br>
-    <a>@ Canada<a>
+    <a><a>
             <br>
-         <a>Hi , I'm currently praying for people in ukraine and hope for the best for all of them!</><a>
+         <a></><a>
 </p>
 
 <p align="center">
