@@ -24,7 +24,7 @@
 </p>
  
 ### Vector Softworks Union
-   Vector is a roblox exploit made by Me,Phoenix,Nickk,Colemat currently there is no info about it since its still in is wip..
+Vector is a roblox exploit created by Me, Phoenix, Nickk, and Colemat. There is currently no information available about it because it is still under development.
 
 <h1 align="center"></h1>
 
