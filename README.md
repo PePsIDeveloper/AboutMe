@@ -18,7 +18,6 @@
     <img width="35" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="Csharp Logo">
   </a>
 </p>
-   ---
  
  <p>
   <img width="250" align='left' src="https://cdn.discordapp.com/attachments/965388831232770118/997233086754463774/e.png">
