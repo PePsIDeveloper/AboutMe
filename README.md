@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Pepsi</h1>
-<h3 align="center">You're looking at a  Full-stack developer.</h3>
+<h1 align="center">Hi there, I'm PePsI</h1>
+<h3 align="center">Full-stack developer.</h3>
 <img src="https://cdn.discordapp.com/attachments/965388831232770118/975182246757675148/Untitled_1366_768_px_1546_202_px.gif"/>
 
    
@@ -18,6 +18,17 @@
     <img width="35" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="Csharp Logo">
   </a>
 </p>
+  ---
+ 
+ <p>
+  <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
+</p>
+ 
+### Boy Scout Rule
+
+I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
+
+ ---
 
 <h1 align="center"></h1>
 
