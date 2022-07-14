@@ -34,5 +34,4 @@ Vector is a roblox exploit created by Me, Phoenix, Nickk, and Colemat. There is 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PePsIDeveloper&theme=dark">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PePsIDeveloper&theme=dark">
-  <img src="https://lanyard.cnrad.dev/api/615719863335518237" href="https://discord.com/users/615719863335518237">
 </p>
