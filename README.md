@@ -25,7 +25,6 @@
  
 ### Vector Softworks Union
    Vector is a roblox exploit made by Me,Phoenix,Nickk,Colemat currently there is no info about it since its still in is wip..
-   ---
 
 <h1 align="center"></h1>
 
