@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm PePsI</h1>
-<h3 align="center">Full-stack developer.</h3>
+<h1 align="center">PePsIDeveloper</h1>
+<h3 align="center">DevOps are my thing...</h3>
 <img src="https://cdn.discordapp.com/attachments/965388831232770118/975182246757675148/Untitled_1366_768_px_1546_202_px.gif"/>
 
    
