@@ -1,6 +1,5 @@
 <h1 align="center">PePsIDeveloper</h1>
 <img src="https://cdn.discordapp.com/attachments/965388831232770118/975182246757675148/Untitled_1366_768_px_1546_202_px.gif"/>
-<img src="https://cdn.discordapp.com/attachments/670416717012271165/999709355085660160/include_Pepsi.h.png"/>
    
 <p align="center">
    <img src="https://gpvc.arturio.dev/PePsIDeveloper">
