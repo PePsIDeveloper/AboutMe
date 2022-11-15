@@ -22,7 +22,7 @@
 </p>
  
 ### Vector Softworks Union
-Vector is a roblox exploit created by Me, Phoenix, Nickk, and Colemat. There is currently no information available about it because it is still under development.
+Vector Softworks is currently working on a project called Xylem. Coming Soon!
 
 <h1 align="center"></h1>
 
