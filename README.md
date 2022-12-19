@@ -20,13 +20,7 @@
  <p>
   <img width="250" align='left' src="https://cdn.discordapp.com/attachments/965388831232770118/997233086754463774/e.png">
 </p>
- 
-### Vector Softworks Union
-Vector Softworks is currently working on a project called Xylem. Coming Soon!
-
-<h1 align="center"></h1>
-
-<details open>
+<details>
     <summary><b>Github Stats</b>: </summary>
     <br>
 <p align="center">
